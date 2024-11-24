@@ -1,6 +1,4 @@
 
-
-
 SiteHost Challenge - Submission
 Introduction
 
